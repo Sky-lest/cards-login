@@ -131,7 +131,7 @@ ul {
 
 .card--creat:hover,
 .card:hover {
-    box-shadow: 0px 4px 10px rgba(14, 165, 233, 1);
+    box-shadow: 0px 4px 10px #51ABB1;
 }
 
 .creat-form {
@@ -152,7 +152,7 @@ ul {
     align-items: center;
     background: rgba(30, 41, 59, 0.4);
     border-radius: 20px;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 4px 10px #0A0D0C;
 }
 
 .form__inputs {
@@ -168,7 +168,7 @@ ul {
 }
 
 .form__input {
-    background: #0F172A;
+    background: #0A0D0C;
     border-radius: 10px;
     padding: 10px;
     height: 30px;
@@ -183,7 +183,7 @@ ul {
 }
 
 .form__text {
-    background: #0F172A;
+    background: #0A0D0C;
     border-radius: 10px;
     padding: 10px;
     color: #F8FAFC;
@@ -193,10 +193,10 @@ ul {
 }
 
 .form__button {
-    border: 1px solid rgba(14, 165, 233, 1);
+    border: 1px solid #6285E4;
     background: #0F172A;
     border-radius: 10px;
-    color: rgba(14, 165, 233, 1);
+    color: #6285E4;
     padding: 10px;
     font: inherit;
     width: 200px;
@@ -206,8 +206,8 @@ ul {
 }
 
 .form__button:hover {
-    color: #F8FAFC;
-    background:  rgba(14, 165, 233, 1);
+    color: #FAF7F8;
+    background:  #6285E4;
 }
 
 .main {
@@ -238,10 +238,10 @@ ul {
 
 .main__link {
     display: block;
-    border: 1px solid rgba(14, 165, 233, 1);
+    border: 1px solid #6285E4;
     background: #0F172A;
     border-radius: 10px;
-    color: rgba(14, 165, 233, 1);
+    color: #6285E4;
     padding: 15px 10px;
     font: inherit;
     width: 200px;
@@ -252,7 +252,7 @@ ul {
 
 .main__link:hover {
     color: #F8FAFC;
-    background:  rgba(14, 165, 233, 1);
+    background:  #6285E4;
 }
 
 
